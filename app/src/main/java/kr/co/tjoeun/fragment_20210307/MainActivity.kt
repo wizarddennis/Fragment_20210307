@@ -1,6 +1,5 @@
 package kr.co.tjoeun.fragment_20210307
 
-import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
 
 class MainActivity : BaseActivity() {
