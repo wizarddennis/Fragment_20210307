@@ -14,4 +14,11 @@
         class="kr.co.tjoeun.fragment_20210307.fragments.FirstFragment"
         />
 
+    <fragment
+        android:id="@+id/secondFrag"
+        android:layout_width="match_parent"
+        android:layout_height="300dp"
+        class="kr.co.tjoeun.fragment_20210307.fragments.SecondFragment"/>
+
+
 </LinearLayout>
