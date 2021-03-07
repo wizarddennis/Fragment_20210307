@@ -8,6 +8,7 @@
     android:background="#FF0000">
 
     <Button
+        android:id="@+id/secondToastBtn"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:text="두번째 프래그먼트"/>
